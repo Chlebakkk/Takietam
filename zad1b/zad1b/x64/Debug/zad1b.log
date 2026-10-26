@@ -1,0 +1,3 @@
+﻿  zad1b.c
+C:\Programowanie\zad1b\zad1b\zad1b.c(17,11): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  zad1b.vcxproj -> C:\Programowanie\zad1b\x64\Debug\zad1b.exe
